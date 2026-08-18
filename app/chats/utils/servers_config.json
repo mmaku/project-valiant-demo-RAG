@@ -1,0 +1,9 @@
+{
+  "rag": {
+    "command": "",
+    "args": [],
+    "transport": "",
+    "description": "rag_agent_tool can be used to pull data from RAG vector database. The database consists of the telecom operator's internal IT service desk documentation: runbooks, troubleshooting procedures, known-error articles, service catalogue and SLA definitions, escalation matrices, and network and platform documentation.",
+    "server_type": "tool"
+  }
+}
